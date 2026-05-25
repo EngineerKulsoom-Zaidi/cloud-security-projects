@@ -1,0 +1,1 @@
+{"Version":"2012-10-17","Statement":[{"Sid":"DynamoDBReadOnlyXYZ","Effect":"Allow","Action":["dynamodb:GetItem","dynamodb:BatchGetItem","dynamodb:Query","dynamodb:Scan","dynamodb:DescribeTable","dynamodb:ListTagsOfResource"],"Resource":["arn:aws:dynamodb:us-east-1:719267174641:table/xyz","arn:aws:dynamodb:us-east-1:719267174641:table/xyz/index/*"]}]}
