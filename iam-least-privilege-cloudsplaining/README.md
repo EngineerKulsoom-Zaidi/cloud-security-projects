@@ -258,4 +258,4 @@ DynamoDB-ReadOnly-xyz policy. The custom policy was clean with zero findings.
 - [AWS IAM Best Practices](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html)
 - [AWS IAM Access Analyzer](https://docs.aws.amazon.com/IAM/latest/UserGuide/what-is-access-analyzer.html)
 - [DynamoDB IAM Actions](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/api-permissions-reference.html)
-"@)
+
